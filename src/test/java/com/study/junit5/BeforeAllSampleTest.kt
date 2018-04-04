@@ -1,4 +1,4 @@
-package com.junit5
+package com.study.junit5
 
 import org.assertj.core.api.Assertions.assertThat
 import org.junit.jupiter.api.AfterAll

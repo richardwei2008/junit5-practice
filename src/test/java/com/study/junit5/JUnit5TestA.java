@@ -1,7 +1,7 @@
-package com.junit5;
+package com.study.junit5;
 
-import com.junit5.model.Developer;
-import com.junit5.sut.UnitUnderTest;
+import com.study.junit5.model.Developer;
+import com.study.junit5.sut.UnitUnderTest;
 import org.junit.jupiter.api.*;
 import org.junit.platform.runner.JUnitPlatform;
 import org.junit.runner.RunWith;

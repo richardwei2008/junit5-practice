@@ -1,4 +1,4 @@
-package com.junit5.sut;
+package com.study.junit5.sut;
 
 /**
  * @Author: H13995 魏喆

@@ -1,4 +1,4 @@
-package com.junit5.model;
+package com.study.junit5.model;
 
 /**
  * @Author: H13995 魏喆
